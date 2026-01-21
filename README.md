@@ -7,9 +7,9 @@ Welcome! This repository serves as a hub for my work in autonomous systems, cont
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏎️ Autonomous Trackmania
+### Autonomous Trackmania
 **Focus:** *Machine Learning & Computer Vision*
 
 Developed an end-to-end Machine Learning pipeline designed to control an autonomous vehicle within the game *Trackmania*. 
@@ -20,15 +20,10 @@ Developed an end-to-end Machine Learning pipeline designed to control an autonom
 
 ---
 
-### ✈️ Aerobotics & Flight Control
+### Aerobotics & Flight Control
 **Focus:** *Control Theory & Simulation*
 
 An intensive exploration of autonomous flight path control for model aircraft, culminating in successful practical deployment.
-
-
-
-[Image of Model Predictive Control block diagram]
-
 
 * **Model Predictive Control (MPC):** Designed and implemented an MPC algorithm as the capstone project to handle complex flight dynamics and constraints.
 * **Validation:** Utilized **Software-in-the-Loop (SiL)** simulations to verify controller stability and performance before physical testing.
@@ -36,7 +31,7 @@ An intensive exploration of autonomous flight path control for model aircraft, c
 
 ---
 
-### 💣 Reinforcement Learning Minesweeper
+### Reinforcement Learning Minesweeper
 **Focus:** *Deep RL & Strategic Logic*
 
 Created an intelligent agent capable of solving the classic logic game *Minesweeper* using Reinforcement Learning.
@@ -46,7 +41,7 @@ Created an intelligent agent capable of solving the classic logic game *Mineswee
 
 ---
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -57,5 +52,5 @@ Created an intelligent agent capable of solving the classic logic game *Mineswee
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 * **Email:** [liebchenniels@gmail.com]
