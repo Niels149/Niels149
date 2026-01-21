@@ -58,5 +58,4 @@ Created an intelligent agent capable of solving the classic logic game *Mineswee
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Your Profile Link Here]
-* **Email:** [Your Email Address Here]
+* **Email:** [liebchenniels@gmail.com]
