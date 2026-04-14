@@ -15,7 +15,7 @@ Welcome! This repository serves as a hub for my work in autonomous systems, cont
 Developed an end-to-end Machine Learning pipeline designed to control an autonomous vehicle within the game *Trackmania*. 
 
 * **Methodology:** Utilized **Supervised Learning** to train the agent based on human driving demonstrations.
-* **Implementation:** Processed real-time game telemetry and visual data to output precise steering and acceleration commands.
+* **Constructed** a **Convolutional Neural Network (CNN)** in PyTorch to facilitate real-time sensor fusion; the model outputs steering and acceleration commands based on live visual and telemetry data.
 * **Key Achievement:** Successfully mapped high-dimensional visual input to low-latency control outputs.
 
 ---
